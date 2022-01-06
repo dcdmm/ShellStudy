@@ -1,2 +1,2 @@
 # ShellStudy
-shell学习笔记
+个人shell学习笔记
